@@ -1,2 +1,2 @@
 # supermacy-webhook
-A simple Discord Webhook Library
+A simple Discord Webhook .NET Library
